@@ -58,6 +58,6 @@ Staybnb is released under the MIT License. See the LICENSE file for more details
 
 ## Contact:
 
-For inquiries or support, please contact the Staybnb team at [contact@staybnb.com](mailto: huntershola007@gmail.com).
+For inquiries or support, please contact the Staybnb team at (mailto: huntershola007@gmail.com).
 
 Thank you for choosing Staybnb for your travel needs! Happy exploring!
