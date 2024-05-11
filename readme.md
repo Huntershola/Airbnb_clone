@@ -34,7 +34,7 @@ Staybnb is introduced with a brief description, providing users with an overview
 
 ## Deployment:
 
-The Staybnb project is deployed on Netlify. You can access the live version of the website [here](https://staybnb.netlify.app/).
+The Staybnb project is deployed on Netlify. You can access the live version of the website [here](https://staybnb-home.netlify.app/).
 
 ## Copyright Information:
 
